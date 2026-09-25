@@ -1,0 +1,10 @@
+{
+  "mensagem_bloqueio": "Seu acesso ao TECNOTJ foi encerrado ou o programa passou a ser pago. Fale com o responsavel para regularizar a licenca.",
+  "licencas": {
+    "9b0c59be7f1a69357eb498aba8625a2315b16606a280b15f6ca89a616d67bce1": {
+      "ativa": true,
+      "nome": "Lennon (dono)",
+      "validade": ""
+    }
+  }
+}
