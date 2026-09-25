@@ -5,6 +5,31 @@
       "ativa": true,
       "nome": "Lennon (dono)",
       "validade": ""
+    },
+    "f3a22e0e945b7e6f5d458fbb683b80739658b120d367c316fd16202575f4aa94": {
+      "ativa": true,
+      "nome": "Cliente 1",
+      "validade": ""
+    },
+    "58c9645fc3613202c136ebea1cf0ae749f666e087e950be7a9e046c1655da7ad": {
+      "ativa": true,
+      "nome": "Cliente 2",
+      "validade": ""
+    },
+    "00daf1c79d1c09985c632cb352305e3a911757835e86d4454c445a2210acdf77": {
+      "ativa": true,
+      "nome": "Cliente 3",
+      "validade": ""
+    },
+    "cc11a5592a030ff1650018a446a47cc9c8dcc593e15fb9ce0f00482a4192abff": {
+      "ativa": true,
+      "nome": "Cliente 4",
+      "validade": ""
+    },
+    "308e3acde279326e7bbacdd7eaad2b4d57c8997e481ad6cb0d573d07ff1d0c0f": {
+      "ativa": true,
+      "nome": "Cliente 5",
+      "validade": ""
     }
   }
 }
