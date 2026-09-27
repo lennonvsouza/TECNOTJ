@@ -3,32 +3,62 @@
   "licencas": {
     "9b0c59be7f1a69357eb498aba8625a2315b16606a280b15f6ca89a616d67bce1": {
       "ativa": true,
-      "nome": "Lennon (dono)",
+      "nome": "Lennon (dono) - chave ANTIGA (desativar)",
       "validade": ""
     },
     "f3a22e0e945b7e6f5d458fbb683b80739658b120d367c316fd16202575f4aa94": {
       "ativa": true,
-      "nome": "Cliente 1",
+      "nome": "Cliente 1 - chave ANTIGA (desativar)",
       "validade": ""
     },
     "58c9645fc3613202c136ebea1cf0ae749f666e087e950be7a9e046c1655da7ad": {
       "ativa": true,
-      "nome": "Cliente 2",
+      "nome": "Cliente 2 - chave ANTIGA (desativar)",
       "validade": ""
     },
     "00daf1c79d1c09985c632cb352305e3a911757835e86d4454c445a2210acdf77": {
       "ativa": true,
-      "nome": "Cliente 3",
+      "nome": "Cliente 3 - chave ANTIGA (desativar)",
       "validade": ""
     },
     "cc11a5592a030ff1650018a446a47cc9c8dcc593e15fb9ce0f00482a4192abff": {
       "ativa": true,
-      "nome": "Cliente 4",
+      "nome": "Cliente 4 - chave ANTIGA (desativar)",
       "validade": ""
     },
     "308e3acde279326e7bbacdd7eaad2b4d57c8997e481ad6cb0d573d07ff1d0c0f": {
       "ativa": true,
-      "nome": "Cliente 5",
+      "nome": "Cliente 5 - chave ANTIGA (desativar)",
+      "validade": ""
+    },
+    "e3683355d31b5da2cfd7b0ad8a4fc9dfaadca642885b73f755a36a4d01fcee6d": {
+      "ativa": true,
+      "nome": "Lennon (dono) - chave forte",
+      "validade": ""
+    },
+    "4d8bfd7cc2bed4a647638db6980e0c092f54baa2b92233c1713eb4549bdef2fe": {
+      "ativa": true,
+      "nome": "Cliente 1 - chave forte",
+      "validade": ""
+    },
+    "0e419674b82cc7d57650f6fb9691d775ba4ec2b1fd68c70b739924cec6bb9514": {
+      "ativa": true,
+      "nome": "Cliente 2 - chave forte",
+      "validade": ""
+    },
+    "3b1a5cdec9773c4ccbf31117f9e1c0a48716884f4941386fe031694c222c501c": {
+      "ativa": true,
+      "nome": "Cliente 3 - chave forte",
+      "validade": ""
+    },
+    "c04cdf15675f401c37afbaa1a5c84d61a576fddf0684b03b6a2ba0f7c50dc01f": {
+      "ativa": true,
+      "nome": "Cliente 4 - chave forte",
+      "validade": ""
+    },
+    "838fcdc654ce1f6409fc29efcff1c4ba2920f78d7e8dede818b985e5c40df2d9": {
+      "ativa": true,
+      "nome": "Cliente 5 - chave forte",
       "validade": ""
     }
   }
