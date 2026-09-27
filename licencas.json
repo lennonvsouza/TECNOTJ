@@ -36,29 +36,9 @@
       "nome": "Lennon (dono) - chave forte",
       "validade": ""
     },
-    "4d8bfd7cc2bed4a647638db6980e0c092f54baa2b92233c1713eb4549bdef2fe": {
+    "4ab3bcb7fd27f728dfec76ab3a5ffa6678aa415a780fbc4449e21eb8f5706a35": {
       "ativa": true,
-      "nome": "Cliente 1 - chave forte",
-      "validade": ""
-    },
-    "0e419674b82cc7d57650f6fb9691d775ba4ec2b1fd68c70b739924cec6bb9514": {
-      "ativa": true,
-      "nome": "Cliente 2 - chave forte",
-      "validade": ""
-    },
-    "3b1a5cdec9773c4ccbf31117f9e1c0a48716884f4941386fe031694c222c501c": {
-      "ativa": true,
-      "nome": "Cliente 3 - chave forte",
-      "validade": ""
-    },
-    "c04cdf15675f401c37afbaa1a5c84d61a576fddf0684b03b6a2ba0f7c50dc01f": {
-      "ativa": true,
-      "nome": "Cliente 4 - chave forte",
-      "validade": ""
-    },
-    "838fcdc654ce1f6409fc29efcff1c4ba2920f78d7e8dede818b985e5c40df2d9": {
-      "ativa": true,
-      "nome": "Cliente 5 - chave forte",
+      "nome": "Chave compartilhada dos clientes",
       "validade": ""
     }
   }
